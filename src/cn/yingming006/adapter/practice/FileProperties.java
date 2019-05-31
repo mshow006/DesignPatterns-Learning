@@ -16,7 +16,7 @@ public class FileProperties extends Properties implements FileIO {
     }
 
     @Override
-    public void wirteToFile(String filename) throws IOException {
+    public void writeToFile(String filename) throws IOException {
         store(new FileOutputStream(filename), "written by FileProperties");
     }
 
