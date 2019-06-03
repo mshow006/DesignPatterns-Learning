@@ -1,4 +1,4 @@
-package cn.yingming006.iterator;
+package _02iterator;
 
 /**
  * 图书类

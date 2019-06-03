@@ -1,4 +1,4 @@
-package cn.yingming006.adapter.object;
+package _01adapter.object;
 
 /**
  * @author Liu Yingming on 2019/5/31

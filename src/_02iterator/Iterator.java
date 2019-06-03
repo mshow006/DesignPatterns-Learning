@@ -1,4 +1,4 @@
-package cn.yingming006.iterator;
+package _02iterator;
 
 /**
  * 用于遍历集合中的元素

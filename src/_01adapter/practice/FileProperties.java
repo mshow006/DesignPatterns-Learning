@@ -1,12 +1,14 @@
-package cn.yingming006.adapter.practice;
+package _01adapter.practice;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Properties;
 
 /**
+ * 管理键值对（属性）
+ * 适配器
+ *
  * @author Liu Yingming on 2019/5/31
  */
 public class FileProperties extends Properties implements FileIO {

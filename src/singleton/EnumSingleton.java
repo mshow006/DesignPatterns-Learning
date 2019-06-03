@@ -1,4 +1,4 @@
-package cn.yingming006.singleton;
+package singleton;
 
 /**
  * @author Liu Yingming on 2019/5/16

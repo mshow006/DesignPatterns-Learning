@@ -1,4 +1,4 @@
-package cn.yingming006.adapter.practice;
+package _01adapter.practice;
 
 import java.io.IOException;
 

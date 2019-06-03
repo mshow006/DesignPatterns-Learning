@@ -1,4 +1,4 @@
-package cn.yingming006.adapter.clazz;
+package _01adapter.clazz;
 
 /**
  * 广告横幅

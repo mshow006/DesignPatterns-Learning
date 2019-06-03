@@ -1,4 +1,4 @@
-package cn.yingming006.iterator;
+package _02iterator;
 
 import java.util.ArrayList;
 

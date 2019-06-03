@@ -1,4 +1,4 @@
-package cn.yingming006.adapter.object;
+package _01adapter.object;
 
 /**
  * 对象适配器模式
@@ -8,7 +8,7 @@ package cn.yingming006.adapter.object;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("object adapter:");
+        System.out.println("object _01adapter:");
         Print p = new PrintBanner("Hello");
         p.printWeak();
         p.printStrong();

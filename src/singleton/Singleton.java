@@ -1,4 +1,4 @@
-package cn.yingming006.singleton;
+package singleton;
 
 /**
  * 饿汉式 - 线程不安全

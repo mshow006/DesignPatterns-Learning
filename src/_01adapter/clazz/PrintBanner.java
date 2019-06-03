@@ -1,4 +1,4 @@
-package cn.yingming006.adapter.clazz;
+package _01adapter.clazz;
 
 /**
  * @author Liu Yingming on 2019/5/31

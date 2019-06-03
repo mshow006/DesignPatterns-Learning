@@ -1,4 +1,4 @@
-package cn.yingming006.adapter.object;
+package _01adapter.object;
 
 /**
  * 广告横幅
