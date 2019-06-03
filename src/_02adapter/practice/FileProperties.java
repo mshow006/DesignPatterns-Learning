@@ -1,4 +1,4 @@
-package _01adapter.practice;
+package _02adapter.practice;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

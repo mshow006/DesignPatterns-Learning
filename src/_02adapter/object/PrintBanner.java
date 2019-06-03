@@ -1,4 +1,4 @@
-package _01adapter.object;
+package _02adapter.object;
 
 /**
  * @author Liu Yingming on 2019/5/31

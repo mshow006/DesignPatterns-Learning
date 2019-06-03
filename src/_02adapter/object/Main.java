@@ -1,4 +1,4 @@
-package _01adapter.object;
+package _02adapter.object;
 
 /**
  * 对象适配器模式
@@ -8,7 +8,7 @@ package _01adapter.object;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("object _01adapter:");
+        System.out.println("object _02adapter:");
         Print p = new PrintBanner("Hello");
         p.printWeak();
         p.printStrong();

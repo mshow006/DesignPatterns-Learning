@@ -1,4 +1,4 @@
-package _02iterator;
+package _01iterator;
 
 /**
  * 测试
@@ -19,7 +19,7 @@ public class Main {
         bookShelf.appendBook(new Book("III"));
         Iterator it = bookShelf.iterator();
         // while 循环不依赖于 BookShelf 的实现
-        // 假设 BookShelf 不使用数组来存储书本，而是用 Vector，那么 BookShelf 的 _02iterator() 依然可以返回 Iterator 实例
+        // 假设 BookShelf 不使用数组来存储书本，而是用 Vector，那么 BookShelf 的 _01iterator() 依然可以返回 Iterator.md 实例
         // hasNext() 和 next() 方法可以正常使用
         while (it.hasNext()) {
             Book book = (Book) it.next();

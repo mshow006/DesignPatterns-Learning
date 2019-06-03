@@ -1,7 +1,7 @@
-package _02iterator;
+package _01iterator;
 
 /**
- * Iterator 模式
+ * Iterator.md 模式
  * 生成一个用于遍历集合的迭代器
  *
  * @author Liu Yingming on 2019/5/31

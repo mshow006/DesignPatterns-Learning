@@ -1,4 +1,4 @@
-package _01adapter.clazz;
+package _02adapter.object;
 
 /**
  * 广告横幅

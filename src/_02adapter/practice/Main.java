@@ -1,4 +1,4 @@
-package _01adapter.practice;
+package _02adapter.practice;
 
 import java.io.IOException;
 
@@ -12,11 +12,11 @@ public class Main {
         // 使用 FileIO 接口里的方法
         FileIO f = new FileProperties();
         try {
-            f.readFromFile("src\\cn\\yingming006\\_01adapter\\practice\\file.txt");
+            f.readFromFile("src\\cn\\yingming006\\_02adapter\\practice\\file.txt");
             // f.setValue("year", "2019");
             f.setValue("month", "5");
             f.setValue("day", "31");
-            f.writeToFile("src\\cn\\yingming006\\_01adapter\\practice\\newFile.txt");
+            f.writeToFile("src\\cn\\yingming006\\_02adapter\\practice\\newFile.txt");
             System.out.println(f.getValue("day"));
         } catch (IOException e) {
             e.printStackTrace();

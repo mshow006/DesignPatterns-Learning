@@ -1,4 +1,4 @@
-package _01adapter.clazz;
+package _02adapter.clazz;
 
 /**
  * 类适配器模式
@@ -11,7 +11,7 @@ package _01adapter.clazz;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("clazz _01adapter:");
+        System.out.println("clazz _02adapter:");
         // 使用多态，使用 Print 接口中的方法，而不是 PrintBanner 类中的方法
         // 使用 PrintBanner 类中的方法 ((PrintBanner)p).method();
         Print p = new PrintBanner("Hello");

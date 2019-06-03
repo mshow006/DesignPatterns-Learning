@@ -1,4 +1,4 @@
-package _02iterator;
+package _01iterator;
 
 /**
  * 用于遍历集合中的元素
