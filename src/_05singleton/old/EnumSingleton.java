@@ -1,4 +1,4 @@
-package singleton;
+package _05singleton.old;
 
 /**
  * @author Liu Yingming on 2019/5/16

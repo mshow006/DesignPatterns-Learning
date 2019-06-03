@@ -1,4 +1,4 @@
-package singleton;
+package _05singleton.old;
 
 /**
  * 饿汉式 - 线程不安全
