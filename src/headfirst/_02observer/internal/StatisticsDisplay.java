@@ -1,6 +1,6 @@
-package headfirst._02.internal;
+package headfirst._02observer.internal;
 
-import headfirst._02.customize.DisplayElement;
+import headfirst._02observer.customize.DisplayElement;
 
 import java.util.ArrayList;
 import java.util.Observable;

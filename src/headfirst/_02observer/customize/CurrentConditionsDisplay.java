@@ -1,4 +1,4 @@
-package headfirst._02.customize;
+package headfirst._02observer.customize;
 
 /**
  * 显示当前状态的面板

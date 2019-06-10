@@ -1,4 +1,4 @@
-package headfirst._02.internal;
+package headfirst._02observer.internal;
 
 import java.util.Observable;
 

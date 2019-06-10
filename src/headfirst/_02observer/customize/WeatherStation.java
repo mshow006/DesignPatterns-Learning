@@ -1,4 +1,4 @@
-package headfirst._02.customize;
+package headfirst._02observer.customize;
 
 /**
  * 测试类
